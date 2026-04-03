@@ -1,1 +1,79 @@
 
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   viewBox="0 0 70.425164 34.315129"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="Tipo_lucha_fuego_icono_EP.svg"
+   width="70.425163"
+   height="34.315128"
+   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#999999"
+     borderopacity="1"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     showguides="true"
+     inkscape:clip-to-page="false"
+     inkscape:zoom="10.520141"
+     inkscape:cx="34.362658"
+     inkscape:cy="14.876227"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1">
+    <sodipodi:guide
+       position="96.386544,63.021967"
+       orientation="0,-1"
+       id="guide1"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="102.85033,63.117023"
+       orientation="0,-1"
+       id="guide2"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
+  <rect
+     width="34.029964"
+     height="33.459625"
+     rx="2.9145727"
+     ry="2.865725"
+     fill="#e62829"
+     id="rect1"
+     x="0"
+     y="0.35724664"
+     style="stroke-width:0.439885" />
+  <path
+     d="m 24.57757,16.316639 c -2.638631,-2.249495 -1.815299,-3.992306 -0.600139,-4.918312 0,0 -3.238771,-0.345067 -4.389453,1.978681 -1.155642,2.32375 1.071324,3.520568 1.071324,3.520568 0,0 -3.213973,-1.126931 -2.311283,-3.887476 0.798532,-2.428579 2.266644,-3.7040202 1.606986,-6.2811102 -0.743975,-2.9134216 -5.440938,-4.1451835 -7.712541,-3.3807922 1.587146,0.4717387 2.732868,1.786491 2.732868,3.3458492 0,1.817066 -1.631786,3.02262 -3.824032,4.9750942 -2.5344747,2.249493 -5.1185484,4.79164 -5.1185484,8.871304 0,4.70865 3.2982897,7.622072 7.2512774,8.679116 -2.003773,-0.843015 -6.1749937,-3.489991 -5.6542117,-8.58302 0.545582,-5.372577 6.3932267,-9.041655 6.3932267,-9.041655 0,0 -1.259798,1.860746 -0.709256,4.874631 0.307509,1.694764 1.686342,3.778276 3.000698,4.682441 1.84506,1.271074 4.285298,2.590194 3.93315,5.001302 -0.332309,2.262598 -3.744676,3.275962 -5.465738,3.367689 0.783654,0.113566 1.582187,0.161614 2.3708,0.139775 5.857565,0 10.207339,-3.83506 10.207339,-7.914724 0,-3.227915 -1.755782,-4.555771 -2.787426,-5.429361 z"
+     fill="#ffffff"
+     id="path1"
+     style="stroke-width:0.465449" />
+  <rect
+     width="32.318958"
+     height="34.315128"
+     rx="2.7680297"
+     ry="2.9389963"
+     fill="#ff8000"
+     id="rect1-8"
+     x="38.106209"
+     y="0"
+     style="stroke-width:0.43413" />
+  <path
+     d="m 56.425245,15.778868 h 9.184634 v 4.419678 h -9.184634 z m 5.616108,-9.8413876 v 7.8999506 h 3.568526 V 5.9374804 Z m -2.047583,0 h -3.568525 v 7.8999506 h 3.568525 z m -5.561338,0 H 50.863907 V 16.324618 h 3.568525 z m -5.616109,0 H 45.247797 V 16.324618 h 3.568526 z m 5.911028,14.0597646 h -9.479554 v 5.801945 l 6.071128,4.213904 14.290954,-4.679133 V 22.032623 H 54.727351 v -2.030905 z"
+     fill="#ffffff"
+     id="path1-8"
+     style="stroke-width:0.43413" />
+</svg>
